@@ -1,6 +1,13 @@
-<h2 align="left">Hi 👋! My name is ...  <br>
-I'm a ..., from ....<br>
+<h1 align="center">Hi 👋! My name is ...  <br></h1>
+<h2>I'm a ..., from ....<br>
 A passionate frontend developer from India<br>
+</h2>
+
+![](https://komarev.com/ghpvc/?username=tejaslolage07)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tejaslolage07&theme=onedark)](https://github.com/tejaslolage07/github-profile-trophy)
+
+<h3>
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
@@ -9,7 +16,8 @@ A passionate frontend developer from India<br>
 📫 How to reach me<br>
 👨‍💻 All of my projects are available at<br>
 📄 Know about my experiences<br>
-⚡ Fun fact</h2>
+⚡ Fun fact
+</h3>
 
 ###
 
@@ -66,7 +74,7 @@ A passionate frontend developer from India<br>
 
 <br clear="both">
 
-<img href="https://github.com/srajan-kiyotaka/tejaslolage07/blob/main/git-snake.svg" alt="Snake animation" />
+<img href="https://res.cloudinary.com/practicaldev/image/fetch/s--RQR3lDMA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/frxi5tktsd059fyktzcb.jpg" alt="Snake animation" />
 
 ###
 
