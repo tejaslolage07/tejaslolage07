@@ -8,14 +8,14 @@ A passionate frontend developer from India<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=tejaslolage07&theme=onedark)](https://github.com/tejaslolage07/github-profile-trophy)
 
 <h3>
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-📫 How to reach me<br>
-👨‍💻 All of my projects are available at<br>
-📄 Know about my experiences<br>
+🔭 I’m currently working on a fullstack project Online Judge<br>
+👯 I’m looking to collaborate on backend frameworks such as Django<br>
+🤝 I’m looking for help with AWS, Docker<br>
+🌱 I’m currently learning DSA and Docker<br>
+💬 Ask me about anything<br>
+📫 How to reach me: tejaslolage17@gmail.com<br>
+👨‍💻 All of my projects are available at <br>
+📄 Know about my experiences <br>
 ⚡ Fun fact
 </h3>
 
