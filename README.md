@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is ...  <br>I'm a ..., from ....<br>A passionate frontend developer from India<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>📫 How to reach me<br>👨‍💻 All of my projects are available at<br>📄 Know about my experiences<br>⚡ Fun fact</h2>
+<h2 align="left">Hi 👋! My name is ...  <br>
+I'm a ..., from ....<br>
+A passionate frontend developer from India<br>
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+📫 How to reach me<br>
+👨‍💻 All of my projects are available at<br>
+📄 Know about my experiences<br>
+⚡ Fun fact</h2>
 
 ###
 
@@ -9,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/srajan-kiyotaka/tejaslolage07/blob/main/DP.jpg"  />
 
 ###
 
@@ -55,7 +66,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/tejaslolage07/tejaslolage07/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/srajan-kiyotaka/tejaslolage07/blob/main/git-snake.svg" alt="Snake animation" />
 
 ###
 
