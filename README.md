@@ -74,7 +74,7 @@ A passionate frontend developer from India<br>
 
 <br clear="both">
 
-<img href="https://res.cloudinary.com/practicaldev/image/fetch/s--RQR3lDMA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/frxi5tktsd059fyktzcb.jpg" alt="Snake animation" />
+<img src="https://github.com/srajan-kiyotaka/tejaslolage07/blob/main/result.png" alt="Snake animation">
 
 ###
 
