@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋! My name is ...  <br></h1>
-<h2>I'm a ..., from ....<br>
-A passionate frontend developer from India<br>
+<h1 align="center">Hi 👋! My name is Tejas Lolage<br></h1>
+<h2>I'm an Open-Source enthusiast from India.<br>
+I'm passionate about fullstack development.<br>
 </h2>
 
 ![](https://komarev.com/ghpvc/?username=tejaslolage07)
