@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Tejas Lolage<br></h1>
 <h2>I'm an Open-Source enthusiast from India.<br>
-I'm passionate about fullstack development and Data Science.<br>
+I'm passionate about Fullstack Development and Data Science.<br>
 </h2>
 
 ![](https://komarev.com/ghpvc/?username=tejaslolage07)
