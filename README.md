@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Tejas Lolage<br></h1>
-I am an EE Junior at Indian Institute of Technology Goa.<br>
 <h2>I'm an Open-Source enthusiast from India.<br>
+I am an EE Junior at Indian Institute of Technology Goa.<br>
 I'm passionate about Fullstack Development and Data Science.<br>
 </h2>
 
