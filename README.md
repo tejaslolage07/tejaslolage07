@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Tejas Lolage<br></h1>
-<h2>I am an EE Junior at Indian Institute of Technology Goa.<br>
-I'm passionate about Fullstack Development and Data Science.<br>
+<h2>I am an EE Senior at Indian Institute of Technology Goa.<br>
+I'm passionate about Full Stack Web and App development.<br>
 </h2>
 
 ![](https://komarev.com/ghpvc/?username=tejaslolage07)
