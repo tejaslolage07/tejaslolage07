@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Tejas Lolage<br></h1>
-<h2>I am a Senior at the Indian Institute of Technology Goa.<br>
+<h2>I am an IIT Goa grad<br>
 I'm passionate about Full Stack Web and App development.<br>
 </h2>
 
